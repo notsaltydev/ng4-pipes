@@ -1,7 +1,7 @@
 /**
  * Created by adamnieslony on 11.06.2017.
  */
-import {Pipe, PipeTransform} from "@angular/core";
+import {Pipe, PipeTransform} from '@angular/core';
 
 @Pipe({
   name: 'shorten'
